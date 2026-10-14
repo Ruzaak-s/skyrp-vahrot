@@ -73,3 +73,4 @@ If you need anything further, read the documentation already provided in \SkyMP\
 It literally contains everything else.
 
 Have fun and enjoy your server! 
+Local Skyrim RP server setup test
